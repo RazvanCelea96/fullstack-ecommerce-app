@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-ecommerce-app",
+  "version": "1.0.0",
+  "description": "fullstack ecommerce app",
+  "main": "server.js",
+  "scripts": {
+  "start": "node backend/server"  
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RazvanCelea96/fullstack-ecommerce-app.git"
+  },
+  "author": "Razvan Celea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RazvanCelea96/fullstack-ecommerce-app/issues"
+  },
+  "homepage": "https://github.com/RazvanCelea96/fullstack-ecommerce-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
