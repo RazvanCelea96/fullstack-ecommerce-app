@@ -68,10 +68,6 @@ const orderSchema = mongoose.Schema(
       update_time: { type: String },
       email_address: { type: String },
     },
-    password: {
-      type: String,
-      required: true,
-    },
     isAdmin: {
       type: Boolean,
       required: true,
